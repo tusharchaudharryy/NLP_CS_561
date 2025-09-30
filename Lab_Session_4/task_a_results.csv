@@ -1,0 +1,6 @@
+Query Word,Top 5 Similar Words (VSM),Top 5 Similar Words (SVD)
+market (business),"stock, housing, growth, prices, sales","stock, analysts, share, growth, prices"
+film (entertainment),"best, awards, actress, director, films","films, movie, awards, best, actress"
+election (politics),"general, labour, campaign, blair, party","labour, general, partys, campaign, labours"
+game (sport),"games, play, players, match, playing","play, games, players, playing, first"
+software (tech),"microsoft, programs, users, antivirus, windows","programs, microsoft, windows, users, program"

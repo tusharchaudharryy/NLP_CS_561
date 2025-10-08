@@ -209,3 +209,5 @@ __marimo__/
 
 bbc/
 Lab_Session_5/checkpoints/*.pt
+Lab_Session_6/checkpoints/
+Lab_Session_6/POS_checkpoints/
